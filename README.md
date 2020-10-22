@@ -11,7 +11,7 @@ A machine learning model that performs sentiment analysis complaints made by cit
 
 ### Run
 - Clone the repository
-- Execute  ```test1.ipynb```
+- Execute  ```wardIndex.ipynb```
 
 ### Authors
 - Adithi Satish
